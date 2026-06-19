@@ -8,6 +8,16 @@ This project presents an interactive Power BI dashboard built using the Supersto
 
 Businesses need to monitor sales and profit trends to make informed decisions. This project aims to identify key sales patterns, profitable regions, and high-performing product categories using historical sales data.
 
+## Project Story
+
+Businesses generate large amounts of sales data, but raw data alone does not provide actionable insights. The goal of this project was to transform sales data into meaningful business information through an interactive dashboard.
+
+Using the Superstore dataset, I analyzed sales performance, profitability, regional trends, and product category performance. I selected KPI cards, charts, and slicers to make the dashboard easy to understand and interactive for users.
+
+The dashboard revealed important trends across regions and product categories while providing a clear overview of business performance. Through this project, I gained practical experience in data analysis, visualization, and dashboard development using Power BI.
+
+If I were to improve this project in the future, I would incorporate forecasting and predictive analytics to support business decision-making.
+
 ## Data Source
 
 * Dataset: Superstore Sales Dataset
